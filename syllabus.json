@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "class": "10",
+    "board": "CBSE",
+    "session": "2026-27"
+  },
+  "subjects": [
+    {
+      "subjectId": "sub_science",
+      "subjectName": "Science",
+      "units": [
+        {
+          "unitId": "sci_u1",
+          "unitName": "Unit I: Chemical Substances – Nature and Behaviour",
+          "marks": 25,
+          "chapters": [
+            {
+              "chapterId": "sci_u1_ch1",
+              "chapterName": "Chemical Reactions and Equations",
+              "topics": [
+                { "topicId": "sci_u1_ch1_t1", "topicName": "Balanced chemical equation" },
+                { "topicId": "sci_u1_ch1_t2", "topicName": "Types of chemical reactions (Combination, Decomposition, Displacement, Double displacement, Precipitation)" },
+                { "topicId": "sci_u1_ch1_t3", "topicName": "Endothermic and exothermic reactions" },
+                { "topicId": "sci_u1_ch1_t4", "topicName": "Oxidation and reduction" }
+              ]
+            },
+            {
+              "chapterId": "sci_u1_ch2",
+              "chapterName": "Acids, Bases and Salts",
+              "topics": [
+                { "topicId": "sci_u1_ch2_t1", "topicName": "Definitions in terms of H+ and OH- ions" },
+                { "topicId": "sci_u1_ch2_t2", "topicName": "Indicators, Chemical properties and uses, Neutralization" },
+                { "topicId": "sci_u1_ch2_t3", "topicName": "Concept of pH scale and importance in everyday life" },
+                { "topicId": "sci_u1_ch2_t4", "topicName": "Preparation and uses of NaOH, Bleaching powder, Baking soda, Washing soda, Plaster of Paris" }
+              ]
+            },
+            {
+              "chapterId": "sci_u1_ch3",
+              "chapterName": "Metals and Non-metals",
+              "topics": [
+                { "topicId": "sci_u1_ch3_t1", "topicName": "Properties of metals and non-metals" },
+                { "topicId": "sci_u1_ch3_t2", "topicName": "Reactivity series" },
+                { "topicId": "sci_u1_ch3_t3", "topicName": "Formation and properties of ionic compounds" },
+                { "topicId": "sci_u1_ch3_t4", "topicName": "Basic metallurgical processes, Corrosion and its prevention" }
+              ]
+            },
+            {
+              "chapterId": "sci_u1_ch4",
+              "chapterName": "Carbon and its Compounds",
+              "topics": [
+                { "topicId": "sci_u1_ch4_t1", "topicName": "Covalent bonds and Versatile nature of carbon" },
+                { "topicId": "sci_u1_ch4_t2", "topicName": "Hydrocarbons (Saturated/unsaturated) and Homologous series" },
+                { "topicId": "sci_u1_ch4_t3", "topicName": "Nomenclature of Alkanes, Alkenes, Alkynes and functional groups" },
+                { "topicId": "sci_u1_ch4_t4", "topicName": "Chemical properties (Combustion, Oxidation, Addition, Substitution)" },
+                { "topicId": "sci_u1_ch4_t5", "topicName": "Ethanol, ethanoic acid, Soaps and detergents" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "sci_u2",
+          "unitName": "Unit II: World of Living",
+          "marks": 25,
+          "chapters": [
+            {
+              "chapterId": "sci_u2_ch1",
+              "chapterName": "Life Processes",
+              "topics": [
+                { "topicId": "sci_u2_ch1_t1", "topicName": "Characteristics of living beings, Nutrition, Respiration" },
+                { "topicId": "sci_u2_ch1_t2", "topicName": "Transport and Excretion (plants and animals)" }
+              ]
+            },
+            {
+              "chapterId": "sci_u2_ch2",
+              "chapterName": "Control and Coordination",
+              "topics": [
+                { "topicId": "sci_u2_ch2_t1", "topicName": "Tropic movements in plants and Plant hormones" },
+                { "topicId": "sci_u2_ch2_t2", "topicName": "Nervous system in animals (Voluntary, involuntary, reflex actions)" },
+                { "topicId": "sci_u2_ch2_t3", "topicName": "Chemical coordination: Animal hormones" }
+              ]
+            },
+            {
+              "chapterId": "sci_u2_ch3",
+              "chapterName": "Reproduction",
+              "topics": [
+                { "topicId": "sci_u2_ch3_t1", "topicName": "Reproduction in animals and plants (asexual and sexual)" },
+                { "topicId": "sci_u2_ch3_t2", "topicName": "Reproductive health, Family planning, Safe sex vs HIV/AIDS" }
+              ]
+            },
+            {
+              "chapterId": "sci_u2_ch4",
+              "chapterName": "Heredity and Evolution",
+              "topics": [
+                { "topicId": "sci_u2_ch4_t1", "topicName": "Heredity and Mendel’s contribution" },
+                { "topicId": "sci_u2_ch4_t2", "topicName": "Laws for inheritance of traits and Sex determination" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "sci_u3",
+          "unitName": "Unit III: Natural Phenomena",
+          "marks": 12,
+          "chapters": [
+            {
+              "chapterId": "sci_u3_ch1",
+              "chapterName": "Reflection and Refraction of Light",
+              "topics": [
+                { "topicId": "sci_u3_ch1_t1", "topicName": "Curved surfaces, Images by spherical mirrors, Mirror formula" },
+                { "topicId": "sci_u3_ch1_t2", "topicName": "Laws of refraction, Refractive index" },
+                { "topicId": "sci_u3_ch1_t3", "topicName": "Refraction through spherical lenses, Lens formula, Power of a lens" }
+              ]
+            },
+            {
+              "chapterId": "sci_u3_ch2",
+              "chapterName": "The Human Eye and Colorful World",
+              "topics": [
+                { "topicId": "sci_u3_ch2_t1", "topicName": "Working of the human eye, Defects of vision and correction" },
+                { "topicId": "sci_u3_ch2_t2", "topicName": "Refraction through a prism, Dispersion and Scattering of light" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "sci_u4",
+          "unitName": "Unit IV: Effects of Current",
+          "marks": 13,
+          "chapters": [
+            {
+              "chapterId": "sci_u4_ch1",
+              "chapterName": "Electricity",
+              "topics": [
+                { "topicId": "sci_u4_ch1_t1", "topicName": "Electric Current, Potential difference, Ohm’s law" },
+                { "topicId": "sci_u4_ch1_t2", "topicName": "Resistance, Resistivity, Series and parallel combination" },
+                { "topicId": "sci_u4_ch1_t3", "topicName": "Heating Effect of Electric Current, Electric power (P, V, I, R)" }
+              ]
+            },
+            {
+              "chapterId": "sci_u4_ch2",
+              "chapterName": "Magnetic Effects of Current",
+              "topics": [
+                { "topicId": "sci_u4_ch2_t1", "topicName": "Magnetic field and field lines (conductor, coil, solenoid)" },
+                { "topicId": "sci_u4_ch2_t2", "topicName": "Force on current-carrying conductor, Fleming’s Left Hand Rule" },
+                { "topicId": "sci_u4_ch2_t3", "topicName": "Direct and alternating current, Frequency of AC, Domestic circuits" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "sci_u5",
+          "unitName": "Unit V: Natural Resources",
+          "marks": 5,
+          "chapters": [
+            {
+              "chapterId": "sci_u5_ch1",
+              "chapterName": "Our Environment",
+              "topics": [
+                { "topicId": "sci_u5_ch1_t1", "topicName": "Ecosystem, Environmental problems, Ozone depletion" },
+                { "topicId": "sci_u5_ch1_t2", "topicName": "Waste production and solutions (Biodegradable/non-biodegradable)" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subjectId": "sub_math",
+      "subjectName": "Mathematics",
+      "units": [
+        {
+          "unitId": "math_u1",
+          "unitName": "UNIT I: NUMBER SYSTEMS",
+          "marks": 6,
+          "chapters": [
+            {
+              "chapterId": "math_u1_ch1",
+              "chapterName": "REAL NUMBERS",
+              "topics": [
+                { "topicId": "math_u1_ch1_t1", "topicName": "Fundamental Theorem of Arithmetic" },
+                { "topicId": "math_u1_ch1_t2", "topicName": "Proofs of irrationality of √2, √3, √5" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "math_u2",
+          "unitName": "UNIT II: ALGEBRA",
+          "marks": 20,
+          "chapters": [
+            {
+              "chapterId": "math_u2_ch1",
+              "chapterName": "POLYNOMIALS",
+              "topics": [
+                { "topicId": "math_u2_ch1_t1", "topicName": "Zeros of a polynomial" },
+                { "topicId": "math_u2_ch1_t2", "topicName": "Relationship between zeros and coefficients of quadratic polynomials" }
+              ]
+            },
+            {
+              "chapterId": "math_u2_ch2",
+              "chapterName": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES",
+              "topics": [
+                { "topicId": "math_u2_ch2_t1", "topicName": "Graphical method of solution, consistency/inconsistency" },
+                { "topicId": "math_u2_ch2_t2", "topicName": "Algebraic conditions for number of solutions" },
+                { "topicId": "math_u2_ch2_t3", "topicName": "Solution by substitution and elimination" }
+              ]
+            },
+            {
+              "chapterId": "math_u2_ch3",
+              "chapterName": "QUADRATIC EQUATIONS",
+              "topics": [
+                { "topicId": "math_u2_ch3_t1", "topicName": "Standard form (ax^2 + bx + c = 0)" },
+                { "topicId": "math_u2_ch3_t2", "topicName": "Solutions by factorization and quadratic formula" },
+                { "topicId": "math_u2_ch3_t3", "topicName": "Relationship between discriminant and nature of roots" }
+              ]
+            },
+            {
+              "chapterId": "math_u2_ch4",
+              "chapterName": "ARITHMETIC PROGRESSIONS",
+              "topics": [
+                { "topicId": "math_u2_ch4_t1", "topicName": "Derivation of the nth term" },
+                { "topicId": "math_u2_ch4_t2", "topicName": "Sum of the first n terms of AP and applications" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "math_u3",
+          "unitName": "UNIT III: COORDINATE GEOMETRY",
+          "marks": 6,
+          "chapters": [
+            {
+              "chapterId": "math_u3_ch1",
+              "chapterName": "Coordinate Geometry",
+              "topics": [
+                { "topicId": "math_u3_ch1_t1", "topicName": "Distance formula" },
+                { "topicId": "math_u3_ch1_t2", "topicName": "Section formula (internal division)" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "math_u4",
+          "unitName": "UNIT IV: GEOMETRY",
+          "marks": 15,
+          "chapters": [
+            {
+              "chapterId": "math_u4_ch1",
+              "chapterName": "TRIANGLES",
+              "topics": [
+                { "topicId": "math_u4_ch1_t1", "topicName": "Definitions, examples, counter-examples of similar triangles" },
+                { "topicId": "math_u4_ch1_t2", "topicName": "Proving line drawn parallel to one side divides other sides in same ratio" },
+                { "topicId": "math_u4_ch1_t3", "topicName": "Theorems on corresponding angles, sides, and similarity" }
+              ]
+            },
+            {
+              "chapterId": "math_u4_ch2",
+              "chapterName": "CIRCLES",
+              "topics": [
+                { "topicId": "math_u4_ch2_t1", "topicName": "Tangent to a circle at the point of contact" },
+                { "topicId": "math_u4_ch2_t2", "topicName": "Proving tangent is perpendicular to radius" },
+                { "topicId": "math_u4_ch2_t3", "topicName": "Proving lengths of tangents from external point are equal" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "math_u5",
+          "unitName": "UNIT V: TRIGONOMETRY",
+          "marks": 12,
+          "chapters": [
+            {
+              "chapterId": "math_u5_ch1",
+              "chapterName": "Introduction to Trigonometry",
+              "topics": [
+                { "topicId": "math_u5_ch1_t1", "topicName": "Trigonometric ratios of an acute angle" },
+                { "topicId": "math_u5_ch1_t2", "topicName": "Values of trigonometric ratios of 30°, 45°, and 60°" }
+              ]
+            },
+            {
+              "chapterId": "math_u5_ch2",
+              "chapterName": "Trigonometric Identities",
+              "topics": [
+                { "topicId": "math_u5_ch2_t1", "topicName": "Proof and applications of sin^2A + cos^2A = 1" }
+              ]
+            },
+            {
+              "chapterId": "math_u5_ch3",
+              "chapterName": "Heights and Distances",
+              "topics": [
+                { "topicId": "math_u5_ch3_t1", "topicName": "Angle of elevation, angle of depression" },
+                { "topicId": "math_u5_ch3_t2", "topicName": "Simple problems on heights and distances (30°, 45°, 60°)" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "math_u6",
+          "unitName": "UNIT VI: MENSURATION",
+          "marks": 10,
+          "chapters": [
+            {
+              "chapterId": "math_u6_ch1",
+              "chapterName": "Areas Related to Circles",
+              "topics": [
+                { "topicId": "math_u6_ch1_t1", "topicName": "Area of sectors and segments of a circle (angles 60°, 90°, 120°)" }
+              ]
+            },
+            {
+              "chapterId": "math_u6_ch2",
+              "chapterName": "Surface Areas and Volumes",
+              "topics": [
+                { "topicId": "math_u6_ch2_t1", "topicName": "Combinations of Cubes, Cuboids, Spheres, Hemispheres, Cylinders/Cones" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "math_u7",
+          "unitName": "UNIT VII: STATISTICS AND PROBABILITY",
+          "marks": 11,
+          "chapters": [
+            {
+              "chapterId": "math_u7_ch1",
+              "chapterName": "Statistics",
+              "topics": [
+                { "topicId": "math_u7_ch1_t1", "topicName": "Mean, median and mode of grouped data" }
+              ]
+            },
+            {
+              "chapterId": "math_u7_ch2",
+              "chapterName": "Probability",
+              "topics": [
+                { "topicId": "math_u7_ch2_t1", "topicName": "Classical definition of probability and simple problems" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subjectId": "sub_sst",
+      "subjectName": "Social Science",
+      "units": [
+        {
+          "unitId": "sst_his",
+          "unitName": "History (India and the Contemporary World - II)",
+          "marks": 20,
+          "chapters": [
+            {
+              "chapterId": "sst_his_ch1",
+              "chapterName": "The Rise of Nationalism in Europe",
+              "topics": [
+                { "topicId": "sst_his_ch1_t1", "topicName": "The Rise of Nationalism in Europe (Theory & Map)" }
+              ]
+            },
+            {
+              "chapterId": "sst_his_ch2",
+              "chapterName": "Nationalism In India",
+              "topics": [
+                { "topicId": "sst_his_ch2_t1", "topicName": "Nationalism In India" }
+              ]
+            },
+            {
+              "chapterId": "sst_his_ch3",
+              "chapterName": "The Making of a Global World",
+              "topics": [
+                { "topicId": "sst_his_ch3_t1", "topicName": "Pre Modern World to Conquest, Disease and Trade" },
+                { "topicId": "sst_his_ch3_t2", "topicName": "19th century to end of Bretton Woods (Interdisciplinary Project)" }
+              ]
+            },
+            {
+              "chapterId": "sst_his_ch4",
+              "chapterName": "The Age of Industrialization",
+              "topics": [
+                { "topicId": "sst_his_ch4_t1", "topicName": "The Age of Industrialization (Periodic Assessment only)" }
+              ]
+            },
+            {
+              "chapterId": "sst_his_ch5",
+              "chapterName": "Print Culture and the Modern World",
+              "topics": [
+                { "topicId": "sst_his_ch5_t1", "topicName": "Print Culture and the Modern World" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "sst_geo",
+          "unitName": "Geography (Contemporary India - II)",
+          "marks": 20,
+          "chapters": [
+            {
+              "chapterId": "sst_geo_ch1",
+              "chapterName": "Resources and Development",
+              "topics": [{ "topicId": "sst_geo_ch1_t1", "topicName": "Resources and Development (Theory & Map)" }]
+            },
+            {
+              "chapterId": "sst_geo_ch2",
+              "chapterName": "Forest and Wildlife Resources",
+              "topics": [{ "topicId": "sst_geo_ch2_t1", "topicName": "Forest and Wildlife Resources" }]
+            },
+            {
+              "chapterId": "sst_geo_ch3",
+              "chapterName": "Water Resources",
+              "topics": [{ "topicId": "sst_geo_ch3_t1", "topicName": "Water Resources" }]
+            },
+            {
+              "chapterId": "sst_geo_ch4",
+              "chapterName": "Agriculture",
+              "topics": [{ "topicId": "sst_geo_ch4_t1", "topicName": "Agriculture" }]
+            },
+            {
+              "chapterId": "sst_geo_ch5",
+              "chapterName": "Minerals and Energy Resources",
+              "topics": [{ "topicId": "sst_geo_ch5_t1", "topicName": "Minerals and Energy Resources" }]
+            },
+            {
+              "chapterId": "sst_geo_ch6",
+              "chapterName": "Manufacturing Industries",
+              "topics": [{ "topicId": "sst_geo_ch6_t1", "topicName": "Manufacturing Industries" }]
+            },
+            {
+              "chapterId": "sst_geo_ch7",
+              "chapterName": "Lifelines of National Economy",
+              "topics": [{ "topicId": "sst_geo_ch7_t1", "topicName": "Lifelines of National Economy (Map & Project only)" }]
+            }
+          ]
+        },
+        {
+          "unitId": "sst_civics",
+          "unitName": "Political Science (Democratic Politics - II)",
+          "marks": 20,
+          "chapters": [
+            {
+              "chapterId": "sst_civ_ch1",
+              "chapterName": "Power-sharing",
+              "topics": [{ "topicId": "sst_civ_ch1_t1", "topicName": "Power-sharing" }]
+            },
+            {
+              "chapterId": "sst_civ_ch2",
+              "chapterName": "Federalism",
+              "topics": [{ "topicId": "sst_civ_ch2_t1", "topicName": "Federalism" }]
+            },
+            {
+              "chapterId": "sst_civ_ch3",
+              "chapterName": "Gender, Religion and Caste",
+              "topics": [{ "topicId": "sst_civ_ch3_t1", "topicName": "Gender, Religion and Caste" }]
+            },
+            {
+              "chapterId": "sst_civ_ch4",
+              "chapterName": "Political Parties",
+              "topics": [{ "topicId": "sst_civ_ch4_t1", "topicName": "Political Parties" }]
+            },
+            {
+              "chapterId": "sst_civ_ch5",
+              "chapterName": "Outcomes of Democracy",
+              "topics": [{ "topicId": "sst_civ_ch5_t1", "topicName": "Outcomes of Democracy" }]
+            }
+          ]
+        },
+        {
+          "unitId": "sst_eco",
+          "unitName": "Economics (Understanding Economic Development)",
+          "marks": 20,
+          "chapters": [
+            {
+              "chapterId": "sst_eco_ch1",
+              "chapterName": "Development",
+              "topics": [{ "topicId": "sst_eco_ch1_t1", "topicName": "Development" }]
+            },
+            {
+              "chapterId": "sst_eco_ch2",
+              "chapterName": "Sectors of the Indian Economy",
+              "topics": [{ "topicId": "sst_eco_ch2_t1", "topicName": "Sectors of the Indian Economy" }]
+            },
+            {
+              "chapterId": "sst_eco_ch3",
+              "chapterName": "Money and Credit",
+              "topics": [{ "topicId": "sst_eco_ch3_t1", "topicName": "Money and Credit" }]
+            },
+            {
+              "chapterId": "sst_eco_ch4",
+              "chapterName": "Globalisation and The Indian Economy",
+              "topics": [
+                { "topicId": "sst_eco_ch4_t1", "topicName": "What is Globalization? Factors enabling it" },
+                { "topicId": "sst_eco_ch4_t2", "topicName": "Production across countries, WTO, Struggle for fair globalization (Project)" }
+              ]
+            },
+            {
+              "chapterId": "sst_eco_ch5",
+              "chapterName": "Consumer Rights",
+              "topics": [{ "topicId": "sst_eco_ch5_t1", "topicName": "Consumer Rights (Project)" }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subjectId": "sub_eng",
+      "subjectName": "English Language and Literature",
+      "units": [
+        {
+          "unitId": "eng_secA",
+          "unitName": "Section A: Reading Skills",
+          "marks": 20,
+          "chapters": [
+            {
+              "chapterId": "eng_secA_ch1",
+              "chapterName": "Unseen Passages",
+              "topics": [
+                { "topicId": "eng_secA_ch1_t1", "topicName": "Discursive passage (400-450 words)" },
+                { "topicId": "eng_secA_ch1_t2", "topicName": "Case-based factual passage (200-250 words)" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "eng_secB",
+          "unitName": "Section B: Writing Skills and Grammar",
+          "marks": 20,
+          "chapters": [
+            {
+              "chapterId": "eng_secB_ch1",
+              "chapterName": "Grammar",
+              "topics": [
+                { "topicId": "eng_secB_ch1_t1", "topicName": "Determiners, Tenses, Modals, Subject-verb concord" },
+                { "topicId": "eng_secB_ch1_t2", "topicName": "Reported speech (Commands, requests, statements, questions)" }
+              ]
+            },
+            {
+              "chapterId": "eng_secB_ch2",
+              "chapterName": "Writing Skills",
+              "topics": [
+                { "topicId": "eng_secB_ch2_t1", "topicName": "Formal Letter (100-120 words)" },
+                { "topicId": "eng_secB_ch2_t2", "topicName": "Analytical Paragraph on Map/Chart/Graph (100-120 words)" }
+              ]
+            }
+          ]
+        },
+        {
+          "unitId": "eng_secC",
+          "unitName": "Section C: Language through Literature",
+          "marks": 40,
+          "chapters": [
+            {
+              "chapterId": "eng_secC_ch1",
+              "chapterName": "FIRST FLIGHT - Prose",
+              "topics": [
+                { "topicId": "eng_secC_ch1_t1", "topicName": "A Letter to God, Nelson Mandela, Stories About Flying" },
+                { "topicId": "eng_secC_ch1_t2", "topicName": "From the Diary of Anne Frank, Glimpses of India, Mijbil the Otter" },
+                { "topicId": "eng_secC_ch1_t3", "topicName": "Madam Rides the Bus, The Sermon at Benares, The Proposal (Play)" }
+              ]
+            },
+            {
+              "chapterId": "eng_secC_ch2",
+              "chapterName": "FIRST FLIGHT - Poetry",
+              "topics": [
+                { "topicId": "eng_secC_ch2_t1", "topicName": "Dust of Snow, Fire and Ice, A Tiger in the Zoo" },
+                { "topicId": "eng_secC_ch2_t2", "topicName": "How to Tell Wild Animals, The Ball Poem, Amanda!" },
+                { "topicId": "eng_secC_ch2_t3", "topicName": "The Trees, Fog, The Tale of Custard the Dragon, For Anne Gregory" }
+              ]
+            },
+            {
+              "chapterId": "eng_secC_ch3",
+              "chapterName": "FOOTPRINTS WITHOUT FEET - Supplementary",
+              "topics": [
+                { "topicId": "eng_secC_ch3_t1", "topicName": "A Triumph of Surgery, The Thief's Story, The Midnight Visitor" },
+                { "topicId": "eng_secC_ch3_t2", "topicName": "A Question of Trust, Footprints Without Feet, The Making of a Scientist" },
+                { "topicId": "eng_secC_ch3_t3", "topicName": "The Necklace, Bholi, The Book that Saved the Earth" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
