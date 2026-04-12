@@ -1,6 +1,6 @@
 {
   "userId": "student_01",
-  "lastUpdated": "2026-04-12T11:36:06.049Z",
+  "lastUpdated": "2026-04-12T11:37:40.769Z",
   "progress": {
     "sci_u1_ch1_t1": {
       "comments": "",
@@ -596,8 +596,8 @@
     },
     "sst_geo_ch1_t1": {
       "comments": "",
-      "school": false,
-      "tuition": false,
+      "school": true,
+      "tuition": true,
       "self": false,
       "revision1": false,
       "revision2": false
@@ -659,8 +659,8 @@
       "revision2": false
     },
     "sst_civ_ch1_t1": {
-      "comments": "",
-      "school": false,
+      "comments": "Absent ",
+      "school": true,
       "tuition": false,
       "self": false,
       "revision1": false,
@@ -1119,6 +1119,21 @@
       "date": "2026-04-12",
       "topicId": "math_u2_ch1_t2",
       "field": "tuition"
+    },
+    {
+      "date": "2026-04-12",
+      "topicId": "sst_geo_ch1_t1",
+      "field": "school"
+    },
+    {
+      "date": "2026-04-12",
+      "topicId": "sst_geo_ch1_t1",
+      "field": "tuition"
+    },
+    {
+      "date": "2026-04-12",
+      "topicId": "sst_civ_ch1_t1",
+      "field": "school"
     }
   ]
 }
