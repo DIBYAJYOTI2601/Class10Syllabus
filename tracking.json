@@ -1,6 +1,6 @@
 {
   "userId": "student_01",
-  "lastUpdated": "2026-04-12T06:28:28.260Z",
+  "lastUpdated": "2026-04-12T06:28:38.856Z",
   "progress": {
     "sci_u1_ch1_t1": {
       "comments": "",
@@ -333,16 +333,16 @@
     "math_u2_ch1_t1": {
       "comments": "",
       "school": false,
-      "tuition": false,
-      "self": false,
+      "tuition": true,
+      "self": true,
       "revision1": false,
       "revision2": false
     },
     "math_u2_ch1_t2": {
       "comments": "",
       "school": false,
-      "tuition": false,
-      "self": false,
+      "tuition": true,
+      "self": true,
       "revision1": false,
       "revision2": false
     },
