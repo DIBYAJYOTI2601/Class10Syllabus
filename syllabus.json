@@ -340,47 +340,41 @@
     {
       "subjectId": "sub_sst",
       "subjectName": "Social Science",
+      "subjectCode": "087",
       "units": [
         {
           "unitId": "sst_his",
           "unitName": "History (India and the Contemporary World - II)",
           "marks": 20,
+          "description": "Inclusive of map pointing (18+2)",
           "chapters": [
             {
               "chapterId": "sst_his_ch1",
               "chapterName": "The Rise of Nationalism in Europe",
-              "topics": [
-                { "topicId": "sst_his_ch1_t1", "topicName": "The Rise of Nationalism in Europe (Theory & Map)" }
-              ]
+              "topics": [{ "topicId": "sst_his_ch1_t1", "topicName": "The Rise of Nationalism in Europe" }]
             },
             {
               "chapterId": "sst_his_ch2",
               "chapterName": "Nationalism In India",
-              "topics": [
-                { "topicId": "sst_his_ch2_t1", "topicName": "Nationalism In India" }
-              ]
+              "topics": [{ "topicId": "sst_his_ch2_t1", "topicName": "Nationalism In India" }]
             },
             {
               "chapterId": "sst_his_ch3",
               "chapterName": "The Making of a Global World",
               "topics": [
-                { "topicId": "sst_his_ch3_t1", "topicName": "Pre Modern World to Conquest, Disease and Trade" },
-                { "topicId": "sst_his_ch3_t2", "topicName": "19th century to end of Bretton Woods (Interdisciplinary Project)" }
+                { "topicId": "sst_his_ch3_t1", "topicName": "Pre Modern World to Conquest, Disease and Trade (Board Eval)" },
+                { "topicId": "sst_his_ch3_t2", "topicName": "19th century to end of Bretton Woods (Interdisciplinary Project - Internal)" }
               ]
             },
             {
               "chapterId": "sst_his_ch4",
               "chapterName": "The Age of Industrialization",
-              "topics": [
-                { "topicId": "sst_his_ch4_t1", "topicName": "The Age of Industrialization (Periodic Assessment only)" }
-              ]
+              "topics": [{ "topicId": "sst_his_ch4_t1", "topicName": "The Age of Industrialization (Periodic Assessment Only)" }]
             },
             {
               "chapterId": "sst_his_ch5",
               "chapterName": "Print Culture and the Modern World",
-              "topics": [
-                { "topicId": "sst_his_ch5_t1", "topicName": "Print Culture and the Modern World" }
-              ]
+              "topics": [{ "topicId": "sst_his_ch5_t1", "topicName": "Print Culture and the Modern World" }]
             }
           ]
         },
@@ -388,11 +382,12 @@
           "unitId": "sst_geo",
           "unitName": "Geography (Contemporary India - II)",
           "marks": 20,
+          "description": "Inclusive of map pointing (17+3)",
           "chapters": [
             {
               "chapterId": "sst_geo_ch1",
               "chapterName": "Resources and Development",
-              "topics": [{ "topicId": "sst_geo_ch1_t1", "topicName": "Resources and Development (Theory & Map)" }]
+              "topics": [{ "topicId": "sst_geo_ch1_t1", "topicName": "Resources and Development" }]
             },
             {
               "chapterId": "sst_geo_ch2",
@@ -422,7 +417,10 @@
             {
               "chapterId": "sst_geo_ch7",
               "chapterName": "Lifelines of National Economy",
-              "topics": [{ "topicId": "sst_geo_ch7_t1", "topicName": "Lifelines of National Economy (Map & Project only)" }]
+              "topics": [
+                { "topicId": "sst_geo_ch7_t1", "topicName": "Map pointing only (Board Evaluation)" },
+                { "topicId": "sst_geo_ch7_t2", "topicName": "Interdisciplinary Project" }
+              ]
             }
           ]
         },
@@ -482,14 +480,14 @@
               "chapterId": "sst_eco_ch4",
               "chapterName": "Globalisation and The Indian Economy",
               "topics": [
-                { "topicId": "sst_eco_ch4_t1", "topicName": "What is Globalization? Factors enabling it" },
-                { "topicId": "sst_eco_ch4_t2", "topicName": "Production across countries, WTO, Struggle for fair globalization (Project)" }
+                { "topicId": "sst_eco_ch4_t1", "topicName": "What is Globalization? Factors enabling it (Board Exam)" },
+                { "topicId": "sst_eco_ch4_t2", "topicName": "Production across countries, WTO, Fair globalization (Project)" }
               ]
             },
             {
               "chapterId": "sst_eco_ch5",
               "chapterName": "Consumer Rights",
-              "topics": [{ "topicId": "sst_eco_ch5_t1", "topicName": "Consumer Rights (Project)" }]
+              "topics": [{ "topicId": "sst_eco_ch5_t1", "topicName": "Consumer Rights (Project Work)" }]
             }
           ]
         }
@@ -546,27 +544,46 @@
               "chapterId": "eng_secC_ch1",
               "chapterName": "FIRST FLIGHT - Prose",
               "topics": [
-                { "topicId": "eng_secC_ch1_t1", "topicName": "A Letter to God, Nelson Mandela, Stories About Flying" },
-                { "topicId": "eng_secC_ch1_t2", "topicName": "From the Diary of Anne Frank, Glimpses of India, Mijbil the Otter" },
-                { "topicId": "eng_secC_ch1_t3", "topicName": "Madam Rides the Bus, The Sermon at Benares, The Proposal (Play)" }
+                { "topicId": "eng_secC_ch1_t1", "topicName": "A Letter to God" },
+                { "topicId": "eng_secC_ch1_t2", "topicName": "Nelson Mandela" },
+                { "topicId": "eng_secC_ch1_t3", "topicName": "Stories About Flying" },
+                { "topicId": "eng_secC_ch1_t4", "topicName": "From the Diary of Anne Frank" },
+                { "topicId": "eng_secC_ch1_t5", "topicName": "Glimpses of India" },
+                { "topicId": "eng_secC_ch1_t6", "topicName": "Mijbil the Otter" },
+                { "topicId": "eng_secC_ch1_t7", "topicName": "Madam Rides the Bus" },
+                { "topicId": "eng_secC_ch1_t8", "topicName": "The Sermon at Benares" },
+                { "topicId": "eng_secC_ch1_t9", "topicName": "The Proposal (Play)" }
               ]
             },
             {
               "chapterId": "eng_secC_ch2",
               "chapterName": "FIRST FLIGHT - Poetry",
               "topics": [
-                { "topicId": "eng_secC_ch2_t1", "topicName": "Dust of Snow, Fire and Ice, A Tiger in the Zoo" },
-                { "topicId": "eng_secC_ch2_t2", "topicName": "How to Tell Wild Animals, The Ball Poem, Amanda!" },
-                { "topicId": "eng_secC_ch2_t3", "topicName": "The Trees, Fog, The Tale of Custard the Dragon, For Anne Gregory" }
+                { "topicId": "eng_secC_ch2_t1", "topicName": "Dust of Snow" },
+                { "topicId": "eng_secC_ch2_t2", "topicName": "Fire and Ice" },
+                { "topicId": "eng_secC_ch2_t3", "topicName": "A Tiger in the Zoo" },
+                { "topicId": "eng_secC_ch2_t4", "topicName": "How to Tell Wild Animals" },
+                { "topicId": "eng_secC_ch2_t5", "topicName": "The Ball Poem" },
+                { "topicId": "eng_secC_ch2_t6", "topicName": "Amanda!" },
+                { "topicId": "eng_secC_ch2_t7", "topicName": "The Trees" },
+                { "topicId": "eng_secC_ch2_t8", "topicName": "Fog" },
+                { "topicId": "eng_secC_ch2_t9", "topicName": "The Tale of Custard the Dragon" },
+                { "topicId": "eng_secC_ch2_t10", "topicName": "For Anne Gregory" }
               ]
             },
             {
               "chapterId": "eng_secC_ch3",
               "chapterName": "FOOTPRINTS WITHOUT FEET - Supplementary",
               "topics": [
-                { "topicId": "eng_secC_ch3_t1", "topicName": "A Triumph of Surgery, The Thief's Story, The Midnight Visitor" },
-                { "topicId": "eng_secC_ch3_t2", "topicName": "A Question of Trust, Footprints Without Feet, The Making of a Scientist" },
-                { "topicId": "eng_secC_ch3_t3", "topicName": "The Necklace, Bholi, The Book that Saved the Earth" }
+                { "topicId": "eng_secC_ch3_t1", "topicName": "A Triumph of Surgery" },
+                { "topicId": "eng_secC_ch3_t2", "topicName": "The Thief's Story" },
+                { "topicId": "eng_secC_ch3_t3", "topicName": "The Midnight Visitor" },
+                { "topicId": "eng_secC_ch3_t4", "topicName": "A Question of Trust" },
+                { "topicId": "eng_secC_ch3_t5", "topicName": "Footprints Without Feet" },
+                { "topicId": "eng_secC_ch3_t6", "topicName": "The Making of a Scientist" },
+                { "topicId": "eng_secC_ch3_t7", "topicName": "The Necklace" },
+                { "topicId": "eng_secC_ch3_t8", "topicName": "Bholi" },
+                { "topicId": "eng_secC_ch3_t9", "topicName": "The Book that Saved the Earth" }
               ]
             }
           ]
