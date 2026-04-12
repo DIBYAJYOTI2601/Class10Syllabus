@@ -1,6 +1,6 @@
 {
   "userId": "student_01",
-  "lastUpdated": "2026-04-12T06:28:38.856Z",
+  "lastUpdated": "2026-04-12T06:32:27.160Z",
   "progress": {
     "sci_u1_ch1_t1": {
       "comments": "",
@@ -595,9 +595,9 @@
       "revision2": false
     },
     "sst_geo_ch1_t1": {
-      "comments": "",
-      "school": false,
-      "tuition": false,
+      "comments": "Self half ",
+      "school": true,
+      "tuition": true,
       "self": false,
       "revision1": false,
       "revision2": false
@@ -652,7 +652,7 @@
     },
     "sst_civ_ch1_t1": {
       "comments": "",
-      "school": false,
+      "school": true,
       "tuition": false,
       "self": false,
       "revision1": false,
