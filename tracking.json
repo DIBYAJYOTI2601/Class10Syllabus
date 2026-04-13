@@ -1,6 +1,6 @@
 {
   "userId": "student_01",
-  "lastUpdated": "2026-04-13T08:29:10.231Z",
+  "lastUpdated": "2026-04-13T08:30:09.641Z",
   "progress": {
     "sci_u1_ch1_t1": {
       "comments": "",
@@ -659,7 +659,7 @@
       "revision2": false
     },
     "sst_civ_ch1_t1": {
-      "comments": "Absent ",
+      "comments": "Absent, incomplete",
       "school": true,
       "tuition": false,
       "self": false,
