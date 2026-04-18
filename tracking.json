@@ -1,6 +1,6 @@
 {
   "userId": "student_01",
-  "lastUpdated": "2026-04-18T05:21:08.769Z",
+  "lastUpdated": "2026-04-18T05:21:28.494Z",
   "progress": {
     "sci_u1_ch1_t1": {
       "comments": "",
@@ -804,7 +804,7 @@
     },
     "eng_secC_ch1_t2": {
       "comments": "",
-      "school": false,
+      "school": true,
       "tuition": false,
       "self": false,
       "revision1": false,
@@ -1199,6 +1199,11 @@
       "date": "2026-04-18",
       "topicId": "sst_civ_ch1_t1",
       "field": "self"
+    },
+    {
+      "date": "2026-04-18",
+      "topicId": "eng_secC_ch1_t2",
+      "field": "school"
     }
   ]
 }
