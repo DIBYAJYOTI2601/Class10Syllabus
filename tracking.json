@@ -1,6 +1,6 @@
 {
   "userId": "student_01",
-  "lastUpdated": "2026-04-13T08:30:09.641Z",
+  "lastUpdated": "2026-04-18T05:16:44.788Z",
   "progress": {
     "sci_u1_ch1_t1": {
       "comments": "",
@@ -13,8 +13,8 @@
     "sci_u1_ch1_t2": {
       "comments": "",
       "school": true,
-      "tuition": false,
-      "self": false,
+      "tuition": true,
+      "self": true,
       "revision1": false,
       "revision2": false
     },
@@ -28,7 +28,7 @@
     },
     "sci_u1_ch1_t4": {
       "comments": "",
-      "school": false,
+      "school": true,
       "tuition": false,
       "self": false,
       "revision1": false,
@@ -1158,6 +1158,21 @@
     {
       "date": "2026-04-12",
       "topicId": "eng_secC_ch3_t1",
+      "field": "school"
+    },
+    {
+      "date": "2026-04-18",
+      "topicId": "sci_u1_ch1_t2",
+      "field": "tuition"
+    },
+    {
+      "date": "2026-04-18",
+      "topicId": "sci_u1_ch1_t2",
+      "field": "self"
+    },
+    {
+      "date": "2026-04-18",
+      "topicId": "sci_u1_ch1_t4",
       "field": "school"
     }
   ]
