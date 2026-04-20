@@ -1,6 +1,6 @@
 {
   "userId": "student_01",
-  "lastUpdated": "2026-04-19T15:33:13.558Z",
+  "lastUpdated": "2026-04-20T08:25:37.515Z",
   "progress": {
     "sci_u1_ch1_t1": {
       "comments": "",
@@ -699,8 +699,8 @@
       "revision2": false
     },
     "sst_eco_ch1_t1": {
-      "comments": "",
-      "school": false,
+      "comments": "half done in scl",
+      "school": true,
       "tuition": false,
       "self": false,
       "revision1": false,
@@ -1209,6 +1209,11 @@
       "date": "2026-04-19",
       "topicId": "eng_secC_ch3_t1",
       "field": "tuition"
+    },
+    {
+      "date": "2026-04-20",
+      "topicId": "sst_eco_ch1_t1",
+      "field": "school"
     }
   ]
 }
