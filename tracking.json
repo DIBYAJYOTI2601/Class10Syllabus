@@ -1,6 +1,6 @@
 {
   "userId": "student_01",
-  "lastUpdated": "2026-04-20T08:29:43.085Z",
+  "lastUpdated": "2026-04-22T17:52:17.425Z",
   "progress": {
     "sci_u1_ch1_t1": {
       "comments": "",
@@ -140,9 +140,9 @@
     },
     "sci_u2_ch1_t1": {
       "comments": "Not completely teached in tuition(7th April 2026))",
-      "school": false,
+      "school": true,
       "tuition": true,
-      "self": false,
+      "self": true,
       "revision1": false,
       "revision2": false
     },
@@ -1214,6 +1214,16 @@
       "date": "2026-04-20",
       "topicId": "sst_eco_ch1_t1",
       "field": "school"
+    },
+    {
+      "date": "2026-04-22",
+      "topicId": "sci_u2_ch1_t1",
+      "field": "school"
+    },
+    {
+      "date": "2026-04-22",
+      "topicId": "sci_u2_ch1_t1",
+      "field": "self"
     }
   ]
 }
