@@ -1,6 +1,6 @@
 {
   "userId": "student_01",
-  "lastUpdated": "2026-04-27T11:58:11.344Z",
+  "lastUpdated": "2026-04-27T11:58:32.837Z",
   "progress": {
     "sci_u1_ch1_t1": {
       "comments": "",
@@ -799,14 +799,14 @@
       "school": true,
       "tuition": true,
       "self": true,
-      "revision1": false,
+      "revision1": true,
       "revision2": false
     },
     "eng_secC_ch1_t2": {
       "comments": "",
       "school": true,
-      "tuition": false,
-      "self": false,
+      "tuition": true,
+      "self": true,
       "revision1": false,
       "revision2": false
     },
@@ -868,17 +868,17 @@
     },
     "eng_secC_ch2_t1": {
       "comments": "",
-      "school": false,
+      "school": true,
       "tuition": true,
-      "self": false,
+      "self": true,
       "revision1": false,
       "revision2": false
     },
     "eng_secC_ch2_t2": {
       "comments": "",
-      "school": false,
-      "tuition": false,
-      "self": false,
+      "school": true,
+      "tuition": true,
+      "self": true,
       "revision1": false,
       "revision2": false
     },
@@ -1274,6 +1274,46 @@
       "date": "2026-04-27",
       "topicId": "sst_civ_ch1_t1",
       "field": "revision1"
+    },
+    {
+      "date": "2026-04-27",
+      "topicId": "eng_secC_ch1_t1",
+      "field": "revision1"
+    },
+    {
+      "date": "2026-04-27",
+      "topicId": "eng_secC_ch1_t2",
+      "field": "tuition"
+    },
+    {
+      "date": "2026-04-27",
+      "topicId": "eng_secC_ch1_t2",
+      "field": "self"
+    },
+    {
+      "date": "2026-04-27",
+      "topicId": "eng_secC_ch2_t1",
+      "field": "school"
+    },
+    {
+      "date": "2026-04-27",
+      "topicId": "eng_secC_ch2_t1",
+      "field": "self"
+    },
+    {
+      "date": "2026-04-27",
+      "topicId": "eng_secC_ch2_t2",
+      "field": "school"
+    },
+    {
+      "date": "2026-04-27",
+      "topicId": "eng_secC_ch2_t2",
+      "field": "tuition"
+    },
+    {
+      "date": "2026-04-27",
+      "topicId": "eng_secC_ch2_t2",
+      "field": "self"
     }
   ]
 }
